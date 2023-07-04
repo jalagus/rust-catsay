@@ -1,6 +1,3 @@
-extern crate structopt;
-extern crate colored;
-
 use structopt::StructOpt;
 use colored::*;
 use failure::ResultExt;
